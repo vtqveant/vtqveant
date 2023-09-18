@@ -73,6 +73,10 @@ Human-Computer Interaction, a selective course covering models of human performa
   * Montagovian Generative Lexicon. (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Dec 24, 2015)
   * Attention Models for Chatbot Technology. Data Natives 2017, Berlin, Nov 16, 2017
 
+### Fun Facts
+
+  * In high school, I once accidentally brought a computer virus  on a diskette to our computer class, but managed to delete it manually from all computers by editing affected files in a hex editor.
+  * I am the inventor of the saying `Peace, friendship, bubble gum', which is in fact a modified slogan of the 12th World Festival of Youth and Students, held in 1985 in Moscow. No one believes, though.    
 
 
 <!--
