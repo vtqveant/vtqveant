@@ -23,7 +23,7 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
 
   * Formal Methods in Natural Language Processing, a master’s level selective course covering topics in formal languages (mildly context-sensitive formalisms including CCG, TAG), Unification Grammar, Lambek calculus, parsing as deduction and computational semantics (Montague Grammar, DRT, LFG/Glue, type-theoretical semantics)
   * Statistical Natural Language Processing, covering language models, log-linear and MEMM models, tagging, constituency and dependency parsing, distributional semantics 
-Human-Computer Interaction, a selective course covering models of human performance, cognitive agents and cognitive architectures (incl. SOAR, Harmony Theory, seq2seq, Memory Networks, attention models)
+  * Human-Computer Interaction, a selective course covering models of human performance, cognitive agents and cognitive architectures (incl. SOAR, Harmony Theory, seq2seq, Memory Networks, attention models)
   * Design of Software, a bachelor’s level course covering software design patterns and design for testability
 
 ### Selected Publications
