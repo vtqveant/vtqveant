@@ -7,8 +7,8 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
   * Arranged and fulfilled transfer of technical infrastructure to AWS from Yandex Cloud to mitigate sanctions-related risks, which allowed undisturbed business operations in the global market. Secured AWS Activate funding for the AWS-based infrastructure of Evolwe project.
   * Established and led a national machine learning team in a large international company (AliExpress). Delivered multiple projects related to search and recommendation solutions for a large-scale international e-commerce platform.
   * A simulation project in the domain of transportation management targeted at scalable cloud-based infrastructure (OpenStack, AnyLogic), early stage research for a prominent logistics service provider Samokat.
-  * [A prototype syntactic annotation tool for OpenCorpora based on categorial grammar, parsing as deduction and proof assistant technology.](https://github.com/vtqveant/ccg-corpus)
-  * [An interpreter for natural language commands for a smart home system based on OpenCCG semantic parser and a hybrid logic model checker.](https://github.com/vtqveant/open-synsem)
+  * A prototype [syntactic annotation tool](https://github.com/vtqveant/ccg-corpus) for OpenCorpora based on categorial grammar, parsing as deduction and proof assistant technology.
+  * [An interpreter for natural language commands](https://github.com/vtqveant/open-synsem) for a smart home system based on OpenCCG semantic parser and a hybrid logic model checker.
   * A series of productivity and entertainment oriented virtual assistants for mobile platforms, including a Turing-100 winning virtual assistant Everfriends (originating from the dialogue manager backing «Eugene Goostman» chatbot).
   * National Corporate Internet Helper, a nation-wide self-care web application for corporate clients of Russian mobile network operator MTS.
 
