@@ -7,8 +7,8 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
   * Arranged and fulfilled transfer of technical infrastructure to AWS from Yandex Cloud to mitigate sanctions-related risks, which allowed undisturbed business operations in the global market. Secured AWS Activate funding for the AWS-based infrastructure of Evolwe project.
   * Established and led a national machine learning team in a large international company (AliExpress). Delivered multiple projects related to search and recommendation solutions for a large-scale international e-commerce platform.
   * A simulation project in the domain of transportation management targeted at scalable cloud-based infrastructure (OpenStack, AnyLogic), early stage research for a prominent logistics service provider Samokat.
-  * A prototype syntactic annotation tool for OpenCorpora based on categorial grammar, parsing as deduction and proof assistant technology.
-  * An interpreter for natural language commands for a smart home system based on OpenCCG semantic parser and a hybrid logic model checker.
+  * [A prototype syntactic annotation tool for OpenCorpora based on categorial grammar, parsing as deduction and proof assistant technology.](https://github.com/vtqveant/ccg-corpus)
+  * [An interpreter for natural language commands for a smart home system based on OpenCCG semantic parser and a hybrid logic model checker.](https://github.com/vtqveant/open-synsem)
   * A series of productivity and entertainment oriented virtual assistants for mobile platforms, including a Turing-100 winning virtual assistant Everfriends (originating from the dialogue manager backing «Eugene Goostman» chatbot).
   * National Corporate Internet Helper, a nation-wide self-care web application for corporate clients of Russian mobile network operator MTS.
 
@@ -33,7 +33,7 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
   * K. V. Sokolov, D. A. Timofeev, A. V. Samochadin. Extraction of Business Process Models from Texts. St. Petersburg State Polytechnical University Journal. Computer Science. Telecommunications and Control Systems, vol. 5 (229), 2015. (in Russian)
   * A. V. Andreev, O. A. Mitrofanova, K. V. Sokolov. Introduction to Formal Semantics. St. Petersburg State University, Faculty of Philology, 2014. (in Russian)
 
-### Talks
+### [Talks](https://github.com/vtqveant/slides)
 
   * Answer Set Programming in Natural Language Processing (FProg Meet-up, Yandex, St. Petersburg, 2012?)
   * Lambda Calculus in Lexical Semantics (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Dec 12, 2013)
@@ -44,7 +44,7 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
   * Topological Semantics for S4 Modal Logic System, part I (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Mar 20, 2014)
   * Topological Semantics for S4 Modal Logic System, part II (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Apr 3, 2014)
   * Neighborhood Grammar, part I (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Apr 24, 2014)
-  * Neighborhood Grammar, part I (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, May 8, 2014)
+  * Neighborhood Grammar, part II (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, May 8, 2014)
   * Generalized Quantifiers (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, May 15, 2014)
   * J. Hintikka's Game-Theoretical Semantics (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, May 22, 2014)
   * Criticism of Formal Semantics by Cognitive Linguistics (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Sep 18, 2014)
@@ -71,8 +71,4 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
   * Type Composition Logic. (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Nov 26, 2015)
   * Dependent Type Semantics. (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Dec 10, 2015)
   * Montagovian Generative Lexicon. (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Dec 24, 2015)
-  * Attention Models for Chatbot Technology. Data Natives 2017, Berlin, Nov 16, 2017
-
-### Fun Fact
-
-  * I am the inventor of the saying `Peace, friendship, bubble gum', which is in fact a modified slogan of the 12th World Festival of Youth and Students, held in 1985 in Moscow. No one believes, though.    
+  * Attention Models for Chatbot Technology. Data Natives 2017, Berlin, Nov 16, 2017  
