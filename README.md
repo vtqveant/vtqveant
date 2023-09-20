@@ -33,7 +33,7 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
   * K. V. Sokolov, D. A. Timofeev, A. V. Samochadin. Extraction of Business Process Models from Texts. St. Petersburg State Polytechnical University Journal. Computer Science. Telecommunications and Control Systems, vol. 5 (229), 2015. (in Russian)
   * A. V. Andreev, O. A. Mitrofanova, K. V. Sokolov. Introduction to Formal Semantics. St. Petersburg State University, Faculty of Philology, 2014. (in Russian)
 
-### [Talks](https://github.com/vtqveant/slides)
+### Talks
 
   * Answer Set Programming in Natural Language Processing (FProg Meet-up, Yandex, St. Petersburg, 2012?)
   * Lambda Calculus in Lexical Semantics (NLU Seminar, Peter the Great St. Petersburg Polytechnical University, Dec 12, 2013)
