@@ -28,10 +28,10 @@ My name is Konstantin Sokolov, I'm a software developer with a background in Lin
 
 ### Selected Publications
 
-  * Konstantin Sokolov. A Vector Model for Type-Theoretical Semantics. Proceedings of the First Workshop on Representation Learning for NLP. ACL 2016.
-  * K. V. Sokolov, D. A. Timofeev, A. V. Samochadin. Process Extraction from Texts using Semantic Unification. In Proceedings of the 7th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2015) – Volume 3: KMIS.
+  * Konstantin Sokolov. A Vector Model for Type-Theoretical Semantics. Proceedings of the First Workshop on Representation Learning for NLP. ACL 2016. ([pdf](https://aclanthology.org/W16-1627.pdf))
+  * K. V. Sokolov, D. A. Timofeev, A. V. Samochadin. Process Extraction from Texts using Semantic Unification. In Proceedings of the 7th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2015) – Volume 3: KMIS. ([pdf](https://www.scitepress.org/PublishedPapers/2015/56383/56383.pdf))
   * K. V. Sokolov, D. A. Timofeev, A. V. Samochadin. Extraction of Business Process Models from Texts. St. Petersburg State Polytechnical University Journal. Computer Science. Telecommunications and Control Systems, vol. 5 (229), 2015. (in Russian)
-  * A. V. Andreev, O. A. Mitrofanova, K. V. Sokolov. Introduction to Formal Semantics. St. Petersburg State University, Faculty of Philology, 2014. (in Russian)
+  * A. V. Andreev, O. A. Mitrofanova, K. V. Sokolov. Introduction to Formal Semantics. St. Petersburg State University, Faculty of Philology, 2014. (in Russian) ([pdf](http://mathling.phil.spbu.ru/sites/default/files/Formal_semantics.pdf))
 
 ### Talks
 
